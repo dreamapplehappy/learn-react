@@ -15,7 +15,8 @@
 + [x] Control React Component Updates When New Props Are Received
 + [x] Use map to Create React Components from Arrays of Data
 + [x] Compose React Component Behavior with Higher Order Components
-+ [x] Build a JSX Live Compiler as a React Component Understand JSX at a Deeper Level
++ [x] Build a JSX Live Compiler as a React Component
++ [x] Understand JSX at a Deeper Level
 + [x] Understand React.Children Utilities
 + [x] Use React.cloneElement to Extend Functionality of Children Components
 + [x] Write More Reusable React Components with Composable APIs
