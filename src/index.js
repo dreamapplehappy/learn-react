@@ -5,7 +5,7 @@ import ReactDOM from 'react-dom';
 /**
  * 练习部分
  */
-import App from './courses/start-learning-react/20';
+import App from './docs/main-concepts/04';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(<App />, document.getElementById('root'));
